@@ -1,1 +1,13 @@
-"C:\Users\user\Downloads\Env\Fortsmc\Scripts\activate.bat"
+"../Fortsmc2/Scripts/activate.bat"
+python
+import os, sys, math, glob, shutil
+import numpy
+import pandas
+import selenium
+import bs4 # beautifulsoup4
+import pyperclip
+import pyautogui
+# import pyinstaller
+import plotly
+# import 
+exit()
